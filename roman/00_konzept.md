@@ -225,16 +225,20 @@ die keine Untersuchung je vollständig beantwortet.
 ### AKT 1 — Vor der Überfahrt (Tallinn, Nachmittag/Abend 27.9.)
 - [x] **Kap. 1 — Berkhoff.** Ankunft im Hafen von Tallinn, der Feuerwehrmann und
   seine Schuld. Erster Blick auf die *Estonia*.
-- [ ] **Kap. 2 — Kadri.** Abschied von der Mutter, der Koffer, der Brief von Erik,
+- [x] **Kap. 2 — Kadri.** Abschied von der Mutter, der Koffer, der Brief von Erik,
   die Angst vor dem Wasser.
-- [ ] **Kap. 3 — Marek.** Dienstbeginn an Bord, das Schiff von innen, Abschied
+- [x] **Kap. 3 — Marek.** Dienstbeginn an Bord, das Schiff von innen, Abschied
   von Triin am Kai.
-- [ ] **Kap. 4 — Maarja & Robin.** Zwei Koffer, ein neues Land, ein Kind, das
+- [x] **Kap. 4 — Maarja & Robin.** Zwei Koffer, ein neues Land, ein Kind, das
   nicht weg will.
-- [ ] **Kap. 5 — Aarne.** Der alte Ingenieur geht an Bord und hört das Schiff.
+- [x] **Kap. 5 — Aarne.** Der alte Ingenieur geht an Bord und hört das Schiff.
   Ein erstes, kaum benennbares Unbehagen.
-- [ ] **Kap. 6 — Sven & Bengt & Toomas.** Drei Männer, drei Fluchten; im Terminal
+- [x] **Kap. 6 — Sven & Bengt & Toomas.** Drei Männer, drei Fluchten; im Terminal
   und beim Boarding kreuzen sich ihre Wege.
+
+> **AKT 1 abgeschlossen.** Alle acht Hauptfiguren eingeführt, Fluchtgründe und
+> innere Konflikte etabliert, erste technische Auffälligkeiten (Geräusch am Bug)
+> gesät, Wetter frischt auf. Nächster Schritt: Akt 2.
 
 ### AKT 2 — An Bord (Abfahrt bis kurz vor Mitternacht)
 - [ ] **Kap. 7 — Auslaufen.** Ablegen 19:15. Alle Perspektiven greifen ineinander.
