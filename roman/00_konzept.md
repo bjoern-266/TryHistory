@@ -241,19 +241,24 @@ die keine Untersuchung je vollständig beantwortet.
 > gesät, Wetter frischt auf. Nächster Schritt: Akt 2.
 
 ### AKT 2 — An Bord (Abfahrt bis kurz vor Mitternacht)
-- [ ] **Kap. 7 — Auslaufen.** Ablegen 19:15. Alle Perspektiven greifen ineinander.
-  Die Stadt versinkt hinter dem Heck.
-- [ ] **Kap. 8 — Das Bordleben I.** Restaurants, Buffet, Duty-free, die ersten
-  Begegnungen des Ensembles.
-- [ ] **Kap. 9 — Unten.** Maschinenräume, Fahrzeugdeck, Bug. Aarne und Marek.
-  Erste konkrete technische Auffälligkeit (Geräusch am Bug bei Seegang).
-- [ ] **Kap. 10 — Der Sturm zieht auf.** Wetterverschärfung, Seegang nimmt zu.
-  Bengt liest den Himmel. Sven trinkt nicht.
-- [ ] **Kap. 11 — Nachtclub & Bar.** Musik, Nähe, Geständnisse. Kadri und Jonas
-  begegnen sich. Toomas' Fassade bekommt Risse.
-- [ ] **Kap. 12 — Kabinen.** Die Stunde vor der Stunde. Maarja bringt Robin zu
-  Bett. Schlingern. Gegenstände rutschen. Der Leser hält den Atem an; die
-  Figuren schlafen ein.
+- [x] **Kap. 7 — Der Abend an Bord.** Sven als Beobachter durchmisst das
+  nächtliche Schiff (Duty-free, Spielautomaten, Nachtclub, Außendeck); Gedanken
+  an die Tochter. *(Auslaufen bereits in Akt 1 gezeigt; Tableau via Sven-POV.)*
+- [x] **Kap. 8 — Das Bordleben I.** Marek im Restaurant; die Stimmung kippt mit
+  dem Seegang; das Bug-Geräusch wird lauter; Blick auf Kadri/Jonas.
+- [x] **Kap. 9 — Unten.** Aarne steigt hinab, diagnostiziert das "falsche Ping"
+  (Materialermüdung), begegnet Maschinencrew und Marek. Niemand geht zur Brücke.
+- [x] **Kap. 10 — Der Sturm zieht auf.** Bengt liest See und Fahrt (zu schnell),
+  ringt mit dem Schweigen; Gespräch mit Sven. Sven trinkt nicht.
+- [x] **Kap. 11 — Nachtclub & Bar.** Kadri und Jonas begegnen sich; Nähe und
+  Geständnisse. Toomas' Fassade zerfällt an der Bar.
+- [x] **Kap. 12 — Kabinen.** Die Stunde vor der Stunde. Maarja & Robin; Reigen
+  der Wachliegenden; der Riss wächst; der erste anders klingende Schlag.
+
+> **AKT 2 abgeschlossen.** Das Schiff ist zum vertrauten Ort geworden; alle
+> Fäden verknüpft (Kadri↔Jonas, Aarne↔Marek, Bengt↔Sven, Toomas gesehen von
+> Kadri). Technische Vorzeichen maximal verdichtet. Endet auf dem ersten Schlag.
+> Nächster Schritt: Akt 3 – Die Nacht.
 
 ### AKT 3 — Die Nacht (ca. 00:55–02:00, dann Rettung bis Morgengrauen)
 - [ ] **Kap. 13 — Die ersten Schläge.** Metallische Geräusche am Bug. Aarne wacht
